@@ -14,4 +14,4 @@ to create a git repository localy:
 
 1. git checkout name of branch(both to create and switch)
 
-2. git branch (to see which branch you'r working on)
+2. git branch (to see which branch you'r working on) 
