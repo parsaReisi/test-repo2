@@ -10,3 +10,8 @@ to create a git repository localy:
 4. git remote add origin "the ssh(or https?) link in quick sestup (after you created the repository)"
 5. git push origin master
 
+## SWITCH BETWEEN BRACNCHES
+
+1. git checkout name of branch(both to create and switch)
+
+2. git branch (to see which branch you'r working on)
